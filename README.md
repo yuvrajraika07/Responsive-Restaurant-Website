@@ -9,8 +9,9 @@
 - Developed first with the Mobile First methodology, then for desktop.
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
-  ![](/preview.pgm)
-  ![](/preview.1pgm)
+  ![preview img](/preview.png.png)
+  
+  ![preview img](/preview.1png.png)
   
   
 
